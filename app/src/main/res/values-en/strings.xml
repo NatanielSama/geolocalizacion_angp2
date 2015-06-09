@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">geolocalizacion_angp2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="google_key">AIzaSyAzfykM4gpsLPJgaKB1lE843JN0nm-RIno</string>
+    <string name="latitud">Latitude:</string>
+    <string name="longitud">Length:</string>
+    <string name="presicion">Accuracy:</string>
+    <string name="posicion">Current Position</string>
+    <string name="activar">On</string>
+    <string name="desactivar">Off</string>
+    <string name="estadopro"> Provider Status:</string>
+    <string name="mapa"> View location on map</string>
+    <string name="mapa2">Ver ubicacion en el mapa satelital</string>
+    <string name="mapan">LOCATION MAP NORMAL</string>
+    <string name="mapat">UBICACION EN MAPA TERRENO</string>
+    <string name="mapas">LOCATION IN SATELLITE MAP</string>
+    <string name="mapah">LOCATION MAP HYBRID</string>
+    <string name="nlat">(NO_DATA)</string>
+    <string name="nlongi">(NO_DATA)</string>
+    <string name="npresc">(NO_DATA)</string>
+    <string name="provs">PROVIDER STATUS:</string>
+    <string name="activado">ON</string>
+    <string name="desactivado">OFF</string>
+</resources>

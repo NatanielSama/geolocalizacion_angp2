@@ -13,10 +13,10 @@
     <string name="estadopro"> Provider Status:</string>
     <string name="mapa"> View location on map</string>
     <string name="mapa2">Ver ubicacion en el mapa satelital</string>
-    <string name="mapan">LOCATION MAP NORMAL</string>
-    <string name="mapat">UBICACION EN MAPA TERRENO</string>
+    <string name="mapan">LOCATION IN NORMAL MAP</string>
+    <string name="mapat">LOCATION IN TERRAIN MAP</string>
     <string name="mapas">LOCATION IN SATELLITE MAP</string>
-    <string name="mapah">LOCATION MAP HYBRID</string>
+    <string name="mapah">LOCATION IN HYBRID MAP</string>
     <string name="nlat">(NO_DATA)</string>
     <string name="nlongi">(NO_DATA)</string>
     <string name="npresc">(NO_DATA)</string>
